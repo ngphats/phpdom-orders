@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<orders>
+	<order id='OR05-1'>
+		<customer name='Nguyen Ngo Phat' phone='0984892322' email='ngphats@gmail.com' />
+		<products>
+			<product name='PHP Basic' qty='1' price='12' />
+			<product name='PHP Advance' qty='4' price='15' />
+			<product name='CodeIgniter Framework' qty='1' price='15' />
+		</products>
+	</order>
+	<order id='OR05-2'>
+		<customer name='Mann Nguyen' phone='0984892323' email='mann@gmail.com' />
+		<products>
+			<product name='PHP Basic' qty='1' price='10' />
+			<product name='PHP Advance' qty='1' price='12' />
+			<product name='CodeIgniter Framework' qty='2' price='15' />
+		</products>
+	</order>
+	<order id='OR05-3'>
+		<customer name='Leonado Nguyen' phone='0984892324' email='leo@gmail.com' />
+		<products>
+			<product name='Zend Framework 3.0' qty='2' price='20' />
+			<product name='Magento' qty='1' price='24' />
+		</products>
+	</order>	
+</orders>

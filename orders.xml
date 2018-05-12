@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<orders><order><customer name="Hdcomputer" phone="098789789" email="hd@gmail.com"/><products><product name="PHP Basic"/></products></order><order><customer name="Phong Vu" phone="098789789" email="hd@gmail.com"/></order></orders>
